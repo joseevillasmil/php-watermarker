@@ -1,4 +1,3 @@
-[![Build Status](
 ## it is an update of pdf-watermarker for use namespace, to use it in laravel just 
 
 ``` php
