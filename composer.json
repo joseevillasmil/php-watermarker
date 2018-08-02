@@ -1,6 +1,11 @@
 {
     "name": "php-watermarker",
     "description": "An update of php-watermarker",
+	"keywords": ["pdf", "php", "watermark"],
+    "type": "project",
+    "support": {
+    },
+    "minimum-stability": "dev",
     "require": {
         "php": "^5.6 || ^7.0"
     }
