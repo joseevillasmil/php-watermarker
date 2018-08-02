@@ -1,5 +1,5 @@
 {
-    "name": "phpWaterMarker",
+    "name": "php-watermarker",
     "description": "An update of php-watermarker",
     "require": {
         "php": "^5.6 || ^7.0"
