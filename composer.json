@@ -1,6 +1,6 @@
 {
-    "name": "php-watermarker",
-    "description": "An update of php-watermarker",
+    "name": " joseevillasmil/php-watermarker",
+    "description": "An update of php-watermarker, this is not mine but now you can use it in laravel 5 :)",
 	"keywords": ["pdf", "php", "watermark"],
     "type": "project",
     "support": {
